@@ -1,1 +1,1 @@
-# Learn_JSgame
+# make simple game
